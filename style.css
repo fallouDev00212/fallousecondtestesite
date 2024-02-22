@@ -113,6 +113,10 @@ margin-left: 150px;
 .col{
     margin-top: px;
 }
+#block1{
+
+    background-color:  rgb(199, 238, 203);
+}
 
 .div{
     background-color: white;
@@ -150,6 +154,17 @@ footer{
 .copyright{
     margin-top: 30px;
 }
+.nav-item{
+
+
+}
+.nav-link{
+
+
+}
+#navv{
+
+}
 
 .imge_card{
 
@@ -159,6 +174,12 @@ footer{
 
 @media only screen and (max-width: 700px) {
 
+#toggle_button{
+
+float:right;
+margin-left: 80%;
+
+    }
 #image1{
 
 
@@ -180,6 +201,10 @@ text-align: center;
 
     text-align: center;
     font-size: 25px;
+}
+#navv{
+
+
 }
 
 
